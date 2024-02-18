@@ -8,7 +8,12 @@ Getting Started with ESP32-C6 (wifi 6/BLE 5/Zigbee)
 
 https://www.youtube.com/shorts/oIxysQ40uS0
 
+![esp11](https://github.com/YakrooThai/ESP32-C6/assets/56666070/96943996-6d74-4314-b6df-a0c8b47af726)
+
 https://www.youtube.com/shorts/rq4Kb5hU9no
+
+![esp12](https://github.com/YakrooThai/ESP32-C6/assets/56666070/fc52b628-c39f-490d-83fb-d42754a98b06)
+
 
 https://www.youtube.com/shorts/-EyOMsANLXM
 
