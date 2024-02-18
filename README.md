@@ -1,5 +1,5 @@
 # ESP32-C6
-Getting Started with ESP32-C6 (wifi 6/BLE 5/Zigbee)
+Getting Started with ESP32-C6 (wifi 6/BLE 5/Zigbee/Matter)
 
 ![420983247_1525839871544130_5090374985070749515_n](https://github.com/YakrooThai/ESP32-C6/assets/56666070/8ca3e7ba-08e1-4bc8-a946-3c3203b8e9c0)
 
