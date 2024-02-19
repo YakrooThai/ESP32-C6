@@ -17,6 +17,7 @@ https://www.youtube.com/shorts/rq4Kb5hU9no
 
 ![esp12](https://github.com/YakrooThai/ESP32-C6/assets/56666070/fc52b628-c39f-490d-83fb-d42754a98b06)
 
+https://www.youtube.com/watch?v=KJJ46MPLHLk
 
 https://www.youtube.com/shorts/-EyOMsANLXM
 
