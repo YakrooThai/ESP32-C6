@@ -2,6 +2,9 @@
 Getting Started with ESP32-C6 (wifi 6/BLE 5/Zigbee/Matter)
 
 "Hi everyone! Welcome to the beginning of exploring ESP32-C6: The latest IoT innovation (WiFi + BLE 5.0 + Zigbee)."
+\
+https://www.youtube.com/watch?v=ZT0Tn6EUbS0
+
 
 https://www.youtube.com/watch?v=wNkzORqIQDQ&t=38s
 
